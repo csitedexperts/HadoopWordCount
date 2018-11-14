@@ -1,0 +1,2 @@
+# HadoopWordCount
+HadoopWordCount Maven Project
